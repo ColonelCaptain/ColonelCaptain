@@ -15,7 +15,7 @@
   <h2>🌟 Skills</h2>
   <p>Blockchain | Rust | Golang | T3 Stack</p></div>
   <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFantasy88&layout=compact&theme=omni&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=XFantasy88&show_icons=true&theme=omni&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColonelCaptain88&layout=compact&theme=omni&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ColonelCaptain88&show_icons=true&theme=omni&hide_border=true" />
   </p>
 </p>
