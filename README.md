@@ -18,4 +18,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColonelCaptain88&layout=compact&theme=omni&hide_border=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ColonelCaptain88&show_icons=true&theme=omni&hide_border=true" />
   </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ColonelCaptain&theme=tokyonight" alt="colonelcaptain" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ColonelCaptain&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
